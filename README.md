@@ -57,6 +57,10 @@ You need the following files:
 * A TSV file with the schema (article_id, article_namespace, article_name). This file is to filter out articles outside namespace 0 (actual articles) and also to map ids to names.
 * A text file containing Wikipedia bot names (one bot name per file), to filter them out.
 
+## Where is this data?
+
+The data is located at TODO.
+
 ## What do I need for the online system?
 
 * The doc latent matrix produced by the minibatch gradient descent script.
