@@ -59,7 +59,7 @@ You need the following files:
 
 ## Where is this data?
 
-The data is located at TODO.
+The data is available on Zenodo, here: https://zenodo.org/record/2617393#.XKCb9y2Q3fY.
 
 ## What do I need for the online system?
 
