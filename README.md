@@ -1,4 +1,4 @@
-# Eliciting New Users' Interests in Wikipedia
+# Eliciting New Wikipedia Users' Interests via Automatically Mined Questionnaires
 
 This repository includes the code to perform the following:
 
@@ -55,7 +55,7 @@ You need the following files:
 * A TSV file with the schema (word_id, 0, word). This is also for the textual content.
 * A TSV file for the revision history of Wikipedia which has the user id, user name, and article id. The default column indices for these three (in the data provided to you) are in utils/constants.py .
 * A TSV file with the schema (article_id, article_namespace, article_name). This file is to filter out articles outside namespace 0 (actual articles) and also to map ids to names.
-* A text file containing Wikipedia bot names (one bot name per file), to filter them out.
+* A text file containing Wikipedia bot names (one bot name per file), to filter them out. This is available in this repository.
 
 ## Where is this data?
 
